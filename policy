@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Datenschutzerklärung – TalkyCat</title>
+  <style>
+    body { font-family: sans-serif; margin: 2em; line-height: 1.6; }
+    h1, h2 { color: #2c3e50; }
+    .en { margin-top: 3em; border-top: 2px dashed #ccc; padding-top: 2em; }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung – TalkyCat</h1>
+  <p><strong>Stand:</strong> 17. Juni 2025</p>
+
+  <h2>1. Allgemeines</h2>
+  <p>
+    Die App <strong>TalkyCat</strong> wird von <strong>purevibe.coding</strong> entwickelt. Der Schutz Ihrer Daten ist uns wichtig. Diese App verarbeitet nur die Daten, die zur Funktion notwendig sind.
+  </p>
+
+  <h2>2. Lokale Funktionen</h2>
+  <ul>
+    <li>Abspielen von Sounds (lokal)</li>
+    <li>Speichern von Favoriten (nur lokal, keine Cloud)</li>
+    <li>Zugriff auf das Mikrofon zur Soundaufnahme (optional, keine Speicherung)</li>
+  </ul>
+
+  <h2>3. Google AdMob</h2>
+  <p>
+    Zur Finanzierung der App wird Google AdMob zur Einblendung von Werbung verwendet. Dabei erhebt Google unter Umständen personenbezogene Daten wie z. B.:
+  </p>
+  <ul>
+    <li>IP-Adresse</li>
+    <li>Gerätekennungen (z. B. Werbe-ID)</li>
+    <li>Nutzungsverhalten (z. B. Klicks auf Anzeigen)</li>
+  </ul>
+  <p>
+    Vor der Nutzung dieser Daten wird Ihre Einwilligung eingeholt (DSGVO/UMP SDK). Sie können Ihre Entscheidung jederzeit in den App-Einstellungen ändern.
+  </p>
+  <p>
+    Weitere Informationen: <a href="https://policies.google.com/technologies/partner-sites?hl=de" target="_blank">Datennutzung durch Google</a>
+  </p>
+
+  <h2>4. Kontakt</h2>
+  <p>
+    Bei Fragen erreichen Sie uns unter:<br />
+    <a href="mailto:purevibe.coding@gmail.com">purevibe.coding@gmail.com</a>
+  </p>
+
+  <!-- English version -->
+  <div class="en">
+    <h1>Privacy Policy – TalkyCat</h1>
+    <p><strong>Last updated:</strong> June 17, 2025</p>
+
+    <h2>1. General</h2>
+    <p>
+      The app <strong>TalkyCat</strong> is developed by <strong>purevibe.coding</strong>. We value your privacy. This app only processes data necessary for its core features.
+    </p>
+
+    <h2>2. Local features</h2>
+    <ul>
+      <li>Plays sounds (locally)</li>
+      <li>Favorites are saved locally (no cloud storage)</li>
+      <li>Microphone access for sound input (optional, no recording stored)</li>
+    </ul>
+
+    <h2>3. Google AdMob</h2>
+    <p>
+      This app uses Google AdMob to display ads. Google may collect personal data such as:
+    </p>
+    <ul>
+      <li>IP address</li>
+      <li>Device identifiers (e.g., advertising ID)</li>
+      <li>Usage data (e.g., ad clicks)</li>
+    </ul>
+    <p>
+      Your consent is requested before any data is used (via UMP SDK). You can change your preferences at any time in the app settings.
+    </p>
+    <p>
+      More information: <a href="https://policies.google.com/technologies/partner-sites?hl=en" target="_blank">How Google uses data</a>
+    </p>
+
+    <h2>4. Contact</h2>
+    <p>
+      For questions, contact:<br />
+      <a href="mailto:purevibe.coding@gmail.com">purevibe.coding@gmail.com</a>
+    </p>
+  </div>
+</body>
+</html>
