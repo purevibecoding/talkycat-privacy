@@ -1,0 +1,2 @@
+# talkycat-privacy
+Datenschutzerklärung TalkyCat
